@@ -1,4 +1,4 @@
-count = 11
+count = 0
 
 def show_count():
     print(count)
